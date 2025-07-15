@@ -56,4 +56,10 @@ This project aims to simplify inventory workflows and enhance data consistency. 
 1. **Clone the repository**:
    ```
    > git clone https://github.com/Tanishq747Shivasharan/Inventory-management-System
-   ``` 
+   ```
+2. **Navigate to the project directory**:
+   ```
+   > cd Inventory-management-System
+   ```
+3. **Install the dependencies**:
+   **Using** [Maven](https://maven.apache.org/download.cgi)
