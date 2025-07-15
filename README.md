@@ -45,6 +45,6 @@ This project aims to simplify inventory workflows and enhance data consistency. 
 
 <h2>Getting Started</h2>
 <h3>Prerequisites</h3>
-<p>This project requires the following dependencies:
+<p>This project requires the following dependencies:</p>
 - **Programming Language:** Java
-- **Package Manager:** Maven</p>
+- **Package Manager:** Maven
