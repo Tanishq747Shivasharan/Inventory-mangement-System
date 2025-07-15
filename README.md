@@ -105,6 +105,7 @@ This project aims to simplify inventory workflows and enhance data consistency. 
 ```
 
 <h3>Screenshots</h3>
-![Project Screenshot](images/screenshot.png)
+
+![Project Screenshot](https://github.com/Tanishq747Shivasharan/Inventory-mangement-System/blob/main/inventory-system/images/Screenshot%20(9).pngg)
 
 [🔝 Return to Top](#INVENTORY-MANAGEMENT-SYSTEM)
