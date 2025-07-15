@@ -25,3 +25,20 @@
   - [Usage](#usage)
   - [Testing](#testing)
 
+<h2>Overview</h2>
+
+Inventory-management-System is a comprehensive Java-based tool designed to stereamline stock, order,and product management for businesses. It integrates seamlessly with PostgreSQL, Hibernate, and JPA to provide reliable data storage and retrival, ensuring your inventory data is always accurate and accessible.
+
+<h3>Why Inventory-management-System?</h3>
+
+This project aims to simplify inventory workflows and enhance data consistency. The core features include:
+
+- **Database Integration**: Connects with PostgreSQL using Hibernate and JPA for efficient data management.
+- **Automated Testing**: Ensures system reliability through comprehensive unit tests.
+- **Modular Architecture**: Orchestrates core operations like product management, sales, and user access.
+- **Core Entities**: Defines Product, User, and Sale models for seamless data handling.
+- **Developer-Friendly**: Facilitates easy extension and intefration within existing systems.
+
+---
+
+<h2>Getting Started</h2>
