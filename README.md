@@ -15,3 +15,11 @@
   <img src="https://img.shields.io/badge/XML-red" />
   <img src="https://img.shields.io/badge/PostgreSQL-purple" />
 </p>
+
+<h2>Table of Contents</h2>
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Testing](#testing)
