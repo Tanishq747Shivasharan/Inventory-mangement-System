@@ -17,8 +17,8 @@
 </p>
 
 <h2>Group Members</h2>
-Vedant Vallal
-Rohit Bansode
+- Vedant Vallal
+- Rohit Bansode
 
 <h2>Table of Contents</h2>
 
