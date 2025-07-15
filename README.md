@@ -1,1 +1,1 @@
-<center>INVENTORY-MANAGEMENT-SYSTEM</center>
+<p align="center">INVENTORY-MANAGEMENT-SYSTEM</p>
