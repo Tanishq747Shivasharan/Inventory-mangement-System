@@ -1,1 +1,1 @@
-<p align="center">INVENTORY-MANAGEMENT-SYSTEM</p>
+<h1 align="center">INVENTORY-MANAGEMENT-SYSTEM</h1>
