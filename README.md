@@ -89,10 +89,18 @@ This project aims to simplify inventory workflows and enhance data consistency. 
 
 <h3>Usage</h3>
 <p>Run the project with:</p>
-<br>
 
 **Using** [Maven](https://maven.apache.org/download.cgi)
 ```
 > mvn exec:java
 ```
 
+<h3>Testing</h3>
+<p>Inventory-management-system uses the {<b>test_framework</b>} test framework. Run the test suite with:</p>
+
+**Using** [Maven](https://maven.apache.org/download.cgi)
+```
+> mvn test
+```
+
+[🔝 Return to Top](#INVENTORY-MANAGEMENT-SYSTEM)
