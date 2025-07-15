@@ -24,6 +24,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Testing](#testing)
+  - [Screenshots](#screenshots)
 
 <h2>Overview</h2>
 
@@ -102,5 +103,8 @@ This project aims to simplify inventory workflows and enhance data consistency. 
 ```
 > mvn test
 ```
+
+<h3>Screenshots</h3>
+![Project Screenshot](images/screenshot.png)
 
 [🔝 Return to Top](#INVENTORY-MANAGEMENT-SYSTEM)
