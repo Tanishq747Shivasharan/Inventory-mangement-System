@@ -12,14 +12,14 @@ public class MainApp {
     public static void main(String[] args) {
         EntityManagerFactory emf = null;
         EntityManager em = null;
-        Scanner scanner = new Scanner(System.in);
-        int choice = -1; 
+        Scanner sc = new Scanner(System.in);
+        int ch = -1; 
 
         try {
             emf = Persistence.createEntityManagerFactory("InventoryPU");
             em = emf.createEntityManager();
 
-            ProductDao productDao = new ProductDao(em);
+            ProductDao proDao = new ProductDao(em);
             SaleDao saleDao = new SaleDao(em);
 
             do {
@@ -34,26 +34,26 @@ public class MainApp {
                 System.out.println("8. Exit");
                 System.out.print("Enter choice: ");
 
-                String input = scanner.nextLine();
+                String input = sc.nextLine();
                 try {
-                    choice = Integer.parseInt(input);
+                    ch = Integer.parseInt(input);
                 } catch (NumberFormatException e) {
                     System.out.println("Invalid input. Please enter a number.");
                     continue;
                 }
 
-                switch (choice) {
-                    case 1 -> productDao.addProductFromInput(scanner);
-                    case 2 -> productDao.viewAllProducts();
-                    case 3 -> productDao.updateProductFromInput(scanner);
-                    case 4 -> productDao.deleteProductFromInput(scanner);
-                    case 5 -> saleDao.recordSaleFromInput(scanner, productDao);
+                switch (ch) {
+                    case 1 -> proDao.addProductFromInput(sc);
+                    case 2 -> proDao.viewAllProducts();
+                    case 3 -> proDao.updateProductFromInput(sc);
+                    case 4 -> proDao.deleteProductFromInput(sc);
+                    case 5 -> saleDao.recordSaleFromInput(sc, proDao);
                     case 6 -> saleDao.viewSalesReport();
-                    case 7 -> productDao.viewStockReport();
+                    case 7 -> proDao.viewStockReport();
                     case 8 -> System.out.println("Exiting...");
                     default -> System.out.println("Invalid choice.");
                 }
-            } while (choice != 8);
+            } while (ch != 8);
 
         } catch (Exception e) {
             System.err.println("An error occurred: " + e.getMessage());
@@ -61,7 +61,7 @@ public class MainApp {
         } finally {
             if (em != null) em.close();
             if (emf != null) emf.close();
-            scanner.close();
+            sc.close();
         }
     }
 }
