@@ -86,3 +86,13 @@ This project aims to simplify inventory workflows and enhance data consistency. 
       <version>3.2.0</version>
     </dependency>
    ```
+
+<h3>Usage</h3>
+<p>Run the project with:</p>
+<br>
+
+**Using** [Maven](https://maven.apache.org/download.cgi)
+```
+> mvn exec:java
+```
+
