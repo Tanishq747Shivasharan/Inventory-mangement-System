@@ -20,6 +20,7 @@
 
 - Vedant Vallal
 - Rohit Bansode
+- Vinay Maheshwaram
 
 <h2>Table of Contents</h2>
 
