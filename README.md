@@ -49,3 +49,11 @@ This project aims to simplify inventory workflows and enhance data consistency. 
 
 - **Programming Language**: Java
 - **Package Manager**: Maven
+
+<h3>Installation</h3>
+<p>Build Inventory-management-System from the source and install dependencies:</p>
+
+1. **Clone the repository**:
+   ```
+   > git clone https://github.com/Tanishq747Shivasharan/Inventory-management-System
+   ``` 
