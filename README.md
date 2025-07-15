@@ -39,6 +39,12 @@ This project aims to simplify inventory workflows and enhance data consistency. 
 - **Core Entities**: Defines Product, User, and Sale models for seamless data handling.
 - **Developer-Friendly**: Facilitates easy extension and intefration within existing systems.
 
+
 ---
 
+
 <h2>Getting Started</h2>
+<h3>Prerequisites</h3>
+<p>This project requires the following dependencies:
+- **Programming Language:** Java
+- **Package Manager:** Maven</p>
