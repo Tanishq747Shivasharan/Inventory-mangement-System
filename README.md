@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-purple" />
 </p>
 
+<h2>Group Members</h2>
+Vedant Vallal
+
 <h2>Table of Contents</h2>
 
 - [Overview](#overview)
