@@ -63,3 +63,26 @@ This project aims to simplify inventory workflows and enhance data consistency. 
    ```
 3. **Install the dependencies**:<br>
    **Using** [Maven](https://maven.apache.org/download.cgi)
+   ```
+   > mvn install
+   ```
+   ```
+   <!-- My Driver for Postgres -->
+    <dependency>
+      <groupId>org.postgresql</groupId>
+      <artifactId>postgresql</artifactId>
+      <version>42.7.1</version>
+    </dependency>
+    <!-- My hibernate dependency -->
+    <dependency>
+      <groupId>org.hibernate.orm</groupId>
+      <artifactId>hibernate-core</artifactId>
+      <version>7.0.1.Final</version>
+    </dependency>
+    <!-- My JPA API -->
+    <dependency>
+      <groupId>jakarta.persistence</groupId>
+      <artifactId>jakarta.persistence-api</artifactId>
+      <version>3.2.0</version>
+    </dependency>
+   ```
