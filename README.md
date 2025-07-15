@@ -6,8 +6,8 @@
 ![Java](https://img.shields.io/badge/java-100.0%25-blue)
 ![Languages](https://img.shields.io/badge/languages-1-blue)
 
-### 🧰 Built With
-
-![Markdown](https://img.shields.io/badge/Markdown-black)
-![XML](https://img.shields.io/badge/XML-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/Markdown-black" />
+  <img src="https://img.shields.io/badge/XML-blue" />
+  <img src="https://img.shields.io/badge/PostgreSQL-blue" />
+</p>
