@@ -2,12 +2,14 @@
 <br>
 <p align="center">Transform Inventory, Accelerate Business Growth</p>
 
-![Last Commit](https://img.shields.io/badge/last%20commit-today-brightgreen)
-![Java](https://img.shields.io/badge/java-100.0%25-blue)
-![Languages](https://img.shields.io/badge/languages-1-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/last%20commit-today-brightgreen" />
+  <img src="https://img.shields.io/badge/java-100.0%25-blue" />
+  <img src="https://img.shields.io/badge/languages-1-blue" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Markdown-black" />
-  <img src="https://img.shields.io/badge/XML-blue" />
-  <img src="https://img.shields.io/badge/PostgreSQL-blue" />
+  <img src="https://img.shields.io/badge/XML-red" />
+  <img src="https://img.shields.io/badge/PostgreSQL-purple" />
 </p>
