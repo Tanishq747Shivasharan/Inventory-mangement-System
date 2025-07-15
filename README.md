@@ -61,5 +61,5 @@ This project aims to simplify inventory workflows and enhance data consistency. 
    ```
    > cd Inventory-management-System
    ```
-3. **Install the dependencies**:
+3. **Install the dependencies**:<br>
    **Using** [Maven](https://maven.apache.org/download.cgi)
